@@ -1,0 +1,42 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(113, 124, 148, 0.7);
+}
+
+.cal-margin {
+    margin: 0 auto;
+}
+
+.calcontainer {  
+    margin-left: 400px;
+    margin-top: 150px;
+    width: 316px;
+}
+
+#panel {
+    text-align: right;
+    width: 274px;
+    height: 80px;
+    font-size: 26px;
+    background-color: white;
+}
+
+#panel:hover {
+    cursor: col-resize;
+}
+
+.bttn {
+    margin-bottom: 8px;
+    margin-left: 5px;
+    width: 59px;
+    height: 45px;
+    font-size: 22px;
+}
+
+.bttne {
+    width: 120px;
+    margin-top: 10px;
+    margin-right: 11px;
+}
